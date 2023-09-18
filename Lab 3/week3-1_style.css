@@ -4,5 +4,43 @@ body {
 
 P {
   color: green;
-  
+
 }
+
+.firstClass {
+  color: orange
+  font-style: italic;
+}
+
+#firstID {
+  font-weight: bold;
+}
+
+.secondClass{
+  color: purple;
+}
+
+.fontClass{
+  font-family: Arial, Helvetica: sans-serif;
+}
+
+.greenText{
+  color: green
+  text-align: center;
+}
+
+.orangeText{
+  color: orange;
+}
+
+.purpleText{
+  color: purple
+  text-align: super;
+}
+
+.redSuper{
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+}
+.yellowCaps{}
