@@ -8,6 +8,6 @@ body {
 }
 
 .liClass{
-  text-align: center;
+  display: inline;
   font-size: 30px
 }
