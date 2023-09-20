@@ -1,4 +1,9 @@
 .fontClass{
-  text-transform: uppercase
+  text-transform: uppercase;
   font-family: Arial, Helvetica: sans-serif;
+}
+
+.imgClass{
+  border-width: 1px;
+  border-color: black;
 }
