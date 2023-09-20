@@ -1,0 +1,13 @@
+body {
+  background-colour: red;
+}
+
+.ulClass {
+  color: green
+  font-style: italic;
+}
+
+.liClass{
+  text-align: center;
+  font-size: 30px
+}
