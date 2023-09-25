@@ -1,0 +1,32 @@
+.greenText{
+  color: green
+  text-align: center;
+}
+
+.orangeText{
+  color: orange;
+}
+
+.purpleText{
+  color: purple
+  text-align: super;
+}
+
+.yellowCaps{
+  color: yellow;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.redSuper{
+  color:red;
+  vertical-align: super;
+}
+
+#myContainer{
+  margin-top: 50px;
+  margin-right: 10%;
+  margin-bottom: 15px;
+  margin-left: 15%;
+  border: purple 3px dotted;
+}
