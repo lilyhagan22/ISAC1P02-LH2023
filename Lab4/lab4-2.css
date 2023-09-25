@@ -1,5 +1,5 @@
 .greenText{
-  color: green
+  color: green;
   text-align: center;
 }
 
@@ -8,12 +8,13 @@
 }
 
 .purpleText{
-  color: purple
+  color: purple;
   text-align: super;
 }
 
 .yellowCaps{
   color: yellow;
+  text-align: right;
   font-style: italic;
   text-transform: uppercase;
 }
