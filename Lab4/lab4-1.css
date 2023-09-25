@@ -1,5 +1,5 @@
 body{
-  background-colour: blue;
+  background-color: blue;
 }
 
 p{
@@ -7,22 +7,22 @@ p{
 }
 
 #myContainer{
-  margin-top: 20px;
-  margin-right: 20%;
-  margin-bottom: 20px;
-  margin-left: 20%
+  margin-top: 50px;
+  margin-right: 10%;
+  margin-bottom: 15px;
+  margin-left: 15%;
   border: black 3px solid;
 }
 
 #textBox{
-  margin: 30px 50% 30px 50%;
-  border: lightblue 1px dashed
+  margin: 30px 20% 30px 20%;
+  border: lightblue 1px dashed;
   padding: 10px 5% 10px 30px;
 }
 
 #pictureBox{
-  margin: 50px 25% 50px 25%;
-  border: white 2px dashed
+  margin: 40px 25% 50px 25%;
+  border: white 2px dashed;
 }
 
 img{
