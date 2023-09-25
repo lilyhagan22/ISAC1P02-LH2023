@@ -1,0 +1,55 @@
+/* Target <p> with class "para1"*/
+
+p.para1{
+  background-color: blue;
+}
+
+
+/* Target <p> with class "para2"*/
+
+/*p.para2{
+  background-color: orange;
+}*/
+
+
+/*Target all <p> and <div>*/
+
+div p{
+  background-color: red;
+}
+
+/*Target all <p> that have parent <div>*/
+div > p{
+  background-color: green;
+}
+
+/*Target all <p> that are directly after div*/
+div + p{
+  background-color: blue;
+}
+
+/*Target all <p> that have the same parent as <div> and occur after said <div>*/
+div ~ p{
+  background-color: pink;
+}
+
+p{
+  background-color: magenta;
+}
+
+
+
+
+.wrapper{
+  background-color: blue;
+}
+
+
+img{
+  margin: 30px;
+  border: 3px black solid;
+  padding:40px 30px 20px 10px;
+  background-color: red
+  heigth: 500px;
+  width: 300px;
+}
