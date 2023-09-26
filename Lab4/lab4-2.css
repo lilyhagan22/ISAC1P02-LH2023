@@ -1,12 +1,12 @@
 .text{
-  font-size: 3px;
+  font-size: 5px;
   text-align: center;
 }
 
 .greenText{
   color: green;
   text-align: center;
-  font-size: 3px;
+  font-size: 4px;
 }
 
 .orangeText{
@@ -35,8 +35,8 @@
 #myContainer{
   margin-top: 10px;
   margin-right: 10%;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
   margin-left: 10%;
-  padding:5px 5px 5px 5px
+  padding:5px 5px 5px 5px;
   border: purple 3px dotted;
 }
