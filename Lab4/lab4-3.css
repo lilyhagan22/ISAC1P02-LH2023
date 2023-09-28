@@ -14,18 +14,18 @@
 
 #myContainer{
   margin-top: 10px;
-  margin-right: 10%;
+  margin-right: 1%;
   margin-bottom: 50px;
-  margin-left: 10%;
+  margin-left: 1%;
   padding:5px 5px 5px 5px;
   border: black 3px dotted;
 }
 
 #theContainer{
   margin-top: 10px;
-  margin-right: 10%;
+  margin-right: 0%;
   margin-bottom: 50px;
-  margin-left: 10%;
+  margin-left: 0%;
   border: none;
-  background-color: limegreen;
+  background-color: green;
 }
