@@ -1,7 +1,7 @@
 .wrapper
 {
   height: 700px
-  width: auto;
+  width: 1600px;
   margin: 0 auto;
   background-color: green;
   color: green;
@@ -12,6 +12,7 @@
   width: 200px;
   height: 200px;
   background-color: blue;
+  float: left;
 }
 
 #topright
@@ -19,6 +20,7 @@
   width:200px;
   height: 200px;
   background-color: red;
+  float: right;
 }
 
 #bottom
