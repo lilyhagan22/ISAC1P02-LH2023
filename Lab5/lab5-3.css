@@ -1,6 +1,6 @@
 .wrapper
 {
-  height: 1000px
+  height: 600px;
   width: 1600px;
   margin: 0 auto;
   background-color: green;
@@ -23,7 +23,7 @@
   float: right;
 }
 
-#bottom
+#bottomone
 {
   width: 200px;
   height: 200px;
