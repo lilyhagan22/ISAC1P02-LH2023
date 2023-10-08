@@ -1,0 +1,65 @@
+p
+{
+  font-size: 48px
+}
+
+.relativeImg
+{
+  position: relative; /*default "postion" is alrady relative
+  we're just writing it to show what "relative" meant*/
+}
+
+.absoluteImg
+{
+  postion:absolute;
+  left: 100px;
+  top: 200px;
+  left: 0px;
+  bottom: 0px;
+  height: 4000px;
+  width: auto;
+
+  z-index: -99
+}
+
+.fixedImg
+{
+  position: fixed;
+  left: 600px;
+  top: 600;
+}
+
+.wrapper
+{
+  width: 1800px;
+  margin: 0 auto;
+  background-color: white;
+  color: black;
+}
+
+#top
+{
+  height: 100px;
+ background-color: green;
+}
+
+#left
+{
+  width: 1200px;
+  float: left;
+  background-color: blue;
+}
+
+#right
+{
+  width: 600px;
+  float: right;
+  background-color: red
+  height: 600px;
+}
+
+#bottom
+{
+  background-color: yellow;
+  clear: both;
+}

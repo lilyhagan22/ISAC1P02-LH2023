@@ -1,0 +1,35 @@
+.wrapper
+{
+  height: 700px
+  width: auto;
+  margin: 0 auto;
+  background-color: green;
+  color: green;
+}
+
+#topleft
+{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+#topright
+{
+  width:200px;
+  height: 200px;
+  background-color: red;
+}
+
+#bottom
+{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+
+
+p {
+  color: black;
+  font-size: 15px;
+}
