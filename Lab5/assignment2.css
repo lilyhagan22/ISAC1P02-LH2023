@@ -37,7 +37,14 @@ p
   background-color: magenta;
 }
 
-.nest
+div p
+{
+ font-size: 12px;
+ color: darkblue;
+}
+
+
+.box
 {
   height: 250px;
   width: auto;
