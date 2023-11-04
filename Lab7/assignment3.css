@@ -1,0 +1,445 @@
+.relativeImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 430px;
+  width: 435px;
+  left: 5px;
+  top: 5px;
+}
+
+#maintitle
+{
+  width: 1250px;
+  height: 200px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 10px;
+  left: 450px;
+}
+
+.maintitletext1
+{
+  color: #34559D;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.maintitletext2
+{
+  color: #1B2740;
+  text-align: center;
+  font-family: Times;
+  font-size: 20px;
+}
+
+#bio
+{
+  width: 1225px;
+  height: 205px;
+  background-color: white;
+  position: relative;
+  top: 210px;
+  left: 435px;
+  border: black 3px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.biotext
+{
+  color: grey;
+  text-align: left;
+  font-family: Times;
+  font-size: 30px;
+}
+
+#essays
+{
+  height: 550px;
+  width: 400px;
+  background-color: #4E38A2;
+  position: absolute;
+  left: 30px;
+  top: 450px;
+}
+
+.essaytext1
+{
+  color: #382A6F;
+  text-align: center;
+  font-family: Times;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+#newessays
+{
+  height: 50px;
+  width: 350px;
+  background-color: #241C42;
+  position: absolute;
+  left: 60px;
+  top: 550px;
+}
+
+.essaytext2
+{
+  color: #382A6F;
+  text-align: center;
+  font-family: Times;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#essaycat1
+{
+  height: 125px;
+  width: 150px;
+  background-color: #241C42;
+  position: absolute;
+  left: 70px;
+  top: 625px;
+}
+
+#essaycat2
+{
+  height: 125px;
+  width: 150px;
+  background-color: #241C42;
+  position: absolute;
+  left: 245px;
+  top: 625px;
+}
+
+#essaycat3
+{
+  height: 125px;
+  width: 150px;
+  background-color: #241C42;
+  position: absolute;
+  left: 70px;
+  top: 800px;
+}
+
+#essaycat4
+{
+  height: 125px;
+  width: 150px;
+  background-color: #241C42;
+  position: absolute;
+  left: 245px;
+  top: 800px;
+}
+
+.essaytext3
+{
+  color: White;
+  text-align: center;
+  font-family: Times;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+#books
+{
+  width: 1250px;
+  height: 100px;
+  background-color: #248D8D;
+  position: absolute;
+  top: 450px;
+  left: 450px;
+}
+
+.booktext1
+{
+  color: #1C6060;
+  text-align: center;
+  font-family: Times;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.lisp
+{
+  position: absolute;
+  margin: 5px;
+  height: 375px;
+  width: 300px;
+  left: 475px;
+  top: 550px;
+}
+
+.ansi
+{
+  position: absolute;
+  margin: 5px;
+  height: 375px;
+  width: 300px;
+  left: 925px;
+  top: 550px;
+}
+
+.handp
+{
+  position: absolute;
+  margin: 5px;
+  height: 375px;
+  width: 300px;
+  left: 1375px;
+  top: 550px;
+}
+
+#booksub1
+{
+  height: 65px;
+  width: 350px;
+  background-color: #248D8D;
+  position: absolute;
+  left: 450px;
+  top: 935px;
+}
+
+#booksub2
+{
+  height: 65px;
+  width: 350px;
+  background-color: #248D8D;
+  position: absolute;
+  left: 907px;
+  top: 935px;
+}
+
+#booksub3
+{
+  height: 65px;
+  width: 350px;
+  background-color: #248D8D;
+  position: absolute;
+  left: 1350px;
+  top: 935px;
+}
+
+
+.booktext2
+{
+  color: #1C6060;
+  text-align: left;
+  font-family: Times;
+  font-size: 10px;
+}
+
+#yc
+{
+  position: relative;
+  height: 250px;
+  width: 420px;
+  background-color: white;
+  left: -10px;
+  top: 775px;
+  border: black 3px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.yctext1
+{
+  color: grey;
+  text-align: left;
+  font-family: Times;
+  font-size: 25px;
+}
+
+.yctext2
+{
+  color: white;
+  text-align: left;
+  font-family: Times;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+#spam
+{
+  position: absolute;
+  height: 60px;
+  width: 400px;
+  background-color: #248D8D;
+  left: 25px;
+  top: 1300px;
+}
+
+.spamtext
+{
+  color: white;
+  text-align: center;
+  font-family: Times;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+#faq
+{
+  position: absolute;
+  height: 50px;
+  width: 200px;
+  background-color: #241C42;
+  left: 5px;
+  top: 1375px;
+}
+
+#raq
+{
+  position: absolute;
+  height: 50px;
+  width: 200px;
+  background-color: #241C42;
+  left: 240px;
+  top: 1375px;
+}
+
+#aboutlispcontainer
+{
+  width: 1250px;
+  height: 405px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 1020px;
+  left: 450px;
+}
+
+#aboutlisptitle
+{
+  width: 200px;
+  height: 50px;
+  background-color: #white;
+  position: absolute;
+  top: 1030px;
+  left: 475px;
+}
+
+#aboutlispcontent
+{
+  width: 600px;
+  height: 175px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 1100px;
+  left: 475px;
+}
+
+.aboutlisptext1
+{
+  color: #34559D;
+  text-align: left;
+  font-family: Times;
+  font-size: 30px;
+}
+
+.aboutlisptext2
+{
+  color: #34559D;
+  text-align: left;
+  font-family: Times;
+  font-size: 20px;
+}
+
+#aboutnewlisptitle
+{
+  width: 300px;
+  height: 50px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 1030px;
+  left: 1100px;
+}
+
+#aboutbel
+{
+  width: 600px;
+  height: 125px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 1100px;
+  left: 1100px;
+}
+
+#aboutarc
+{
+  width: 600px;
+  height: 125px;
+  background-color: #273D6B;
+  position: absolute;
+  top: 1150px;
+  left: 1100px;
+}
+
+#lispcathistory
+{
+  height: 60px;
+  width: 125px;
+  background-color: #34559D;
+  position: absolute;
+  left: 485px;
+  top: 1260px;
+}
+
+#lispcatquotes
+{
+  height: 60px;
+  width: 125px;
+  background-color: #34559D;
+  position: absolute;
+  left: 485px;
+  top: 1350px;
+}
+
+#lispcatmycontributions
+{
+  height: 60px;
+  width: 125px;
+  background-color: #34559D;
+  position: absolute;
+  left: 675px;
+  top: 1260px;
+}
+
+#lispcatmyresponses
+{
+  height: 60px;
+  width: 125px;
+  background-color: #34559D;
+  position: absolute;
+  left: 675px;
+  top: 1350px;
+}
+
+#lispcatcodes
+{
+  height: 60px;
+  width: 125px;
+  background-color: #34559D;
+  position: absolute;
+  left: 865px;
+  top: 1260px;
+}
+
+  #lispcatlinks
+  {
+    height: 60px;
+    width: 125px;
+    background-color: #34559D;
+    position: absolute;
+    left: 865px;
+    top: 1350px;
+  }
+
+  #lispcattut
+  {
+    height: 150px;
+    width: 550px;
+    background-color: #34559D;
+    position: absolute;
+    left: 1100px;
+    top: 1260px;
+  }
