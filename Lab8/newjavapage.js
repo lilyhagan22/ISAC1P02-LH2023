@@ -20,5 +20,15 @@ function changeIntro(){
 }
 
 function addxandy(){
+  document.getElementByID("result").innerHTML=(numX+numY);
+}
 
+function incX(){
+  numX++;
+  document.getElementByID("result").innerHTML=(numX);
+}
+
+function incX(){
+  numY++;
+  document.getElementByID("result").innerHTML=(numY);
 }
