@@ -23,4 +23,3 @@ console.log("FullYear:" + todayFullYear);
 
 document.getElementById("result").innerHTML=(todayFullYear - num1);
 console.log(todayFullYear - num1);
-}
