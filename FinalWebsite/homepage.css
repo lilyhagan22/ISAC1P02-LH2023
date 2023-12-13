@@ -1,0 +1,162 @@
+body
+{
+  background-color: #FABCC2;
+}
+
+
+#maintitle
+{
+  width: 1500px;
+  height: 200px;
+  background-color: #F2949D;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+
+.maintitletext1
+{
+  color: #C176A7;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.maintitletext2
+{
+  color: #C176A7;
+  text-align: center;
+  font-family: Times;
+  font-size: 20px;
+}
+
+.brainImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 500px;
+  width: 900px;
+  left: 380px;
+  top: 325px;
+}
+
+#brainbackground
+{
+  width: 1000px;
+  height: 530px;
+  background-color: #FFDAC0;
+  position: absolute;
+  top: 310px;
+  left: 350px;
+}
+
+#description
+{
+  width: 1100px;
+  height: 70px;
+  background-color: #F2949D;
+  position: absolute;
+  top: 225px;
+  left: 300px;
+}
+
+#footer
+{
+  width: 1500px;
+  height: 50px;
+  background-color: #F2949D;
+  position: absolute;
+  top: 865px;
+  left: 125px;
+}
+
+.footertext
+{
+  color: #C176A7;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+
+
+.lobetitletext
+{
+  color: #A35A84;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+#frontallobe
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#temporallobe
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#brainstem
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 700px;
+  left: 100px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#parietallobe
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 300px;
+  left: 1350px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#occipitallobe
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 500px;
+  left: 1350px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#cerebellum
+{
+  width: 200px;
+  height: 100px;
+  background-color: #EED1E4;
+  position: absolute;
+  top: 700px;
+  left: 1350px;
+  border: #C176A7 2px solid;
+  margin: 1% 1% 1% 1%;
+}

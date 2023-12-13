@@ -1,0 +1,275 @@
+body
+{
+  background-color: #FABCC2;
+}
+
+#maintitle
+{
+  width: 1300px;
+  height: 200px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 10px;
+  left: 210px;
+}
+
+.maintitletext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#regionpurposebox
+{
+  width: 500px;
+  height: 200px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 225px;
+  left: 75px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.regionpurposetext1
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 30px;
+}
+
+.regionpurposetext2
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 15px;
+}
+
+#footer
+{
+  width: 1300px;
+  height: 75px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 900px;
+  left: 210px;
+}
+
+.footertext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-size: 15px;
+}
+
+#sightbox
+{
+  width: 300px;
+  height:25px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 450px;
+  left: 165px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.sighttext
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 11px;
+}
+
+.yearImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 175px;
+  left: 125px;
+  top: 500px;
+}
+
+.fantasyImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 175px;
+  left: 325px;
+  top: 500px;
+}
+
+.islandImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 175px;
+  left: 125px;
+  top: 700px;
+}
+
+.darkImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 175px;
+  left: 325px;
+  top: 700px;
+}
+
+#ppbox
+{
+  width: 1025px;
+  height: 100px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 225px;
+  left: 600px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.pptext1
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 20px;
+}
+
+.pptext2
+{
+  color: #FFDAC0;
+  text-align: left;
+  font-size: 15px;
+}
+
+.illusiontext
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 15px;
+}
+
+.illusion1Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 225px;
+  width: 300px;
+  left: 675px;
+  top: 365px;
+}
+
+.answertext1
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 30px;
+}
+
+.answertext2
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 30px;
+}
+
+#illusion1box
+{
+  width: 295px;
+  height: 100px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 600px;
+  left: 665px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+
+.illusion2Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 225px;
+  width: 300px;
+  left: 975px;
+  top: 365px;
+}
+
+#answer1box
+{
+  width: 295px;
+  height: 100px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 750px;
+  left: 665px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#illusion2box
+{
+  width: 290px;
+  height: 100px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 600px;
+  left: 968px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#answer2box
+{
+  width: 290px;
+  height: 100px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 750px;
+  left: 968px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.illusion3Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 225px;
+  width: 300px;
+  left: 1280px;
+  top: 365px;
+}
+
+#illusion3box
+{
+  width: 295px;
+  height: 100px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 600px;
+  left: 1265px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#answer3box
+{
+  width: 295px;
+  height: 100px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 750px;
+  left: 1265px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}

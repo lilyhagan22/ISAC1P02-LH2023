@@ -1,0 +1,221 @@
+body
+{
+  background-color: #379393;
+}
+
+
+#maintitle
+{
+  width: 1650px;
+  height: 200px;
+  background-color: #D2DA36;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+}
+
+#maindescription
+{
+  width: 1400px;
+  height: 200px;
+  background-color: #F9FEAD;
+  position: absolute;
+  top: 225px;
+  left: 150px;
+}
+
+#books
+{
+  width: 1650px;
+  height: 100px;
+  background-color: #BF9ADC;
+  position: absolute;
+  top: 450px;
+  left: 25px;
+}
+
+.maintitletext1
+{
+  color: #FAFEAD;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.sodhdescription
+{
+  color: #A9B218;
+  text-align: center;
+  font-family: Times;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.sodhdescription2
+{
+  color: #D2DA36;
+  text-align: center;
+  font-family: Times;
+  font-size: 15px;
+}
+
+.sodhdescription3
+{
+  color: #D2DA36;
+  text-align: left;
+  font-family: Times;
+  font-size: 15px;
+}
+
+.maintitletext2
+{
+  color: #FAFEAD;
+  text-align: center;
+  font-family: Times;
+  font-size: 20px;
+}
+
+.biotext
+{
+  color: #D2DA36;
+  text-align: left;
+  font-family: Times;
+  font-size: 30px;
+}
+
+.booktext1
+{
+  color: #4F1779;
+  text-align: center;
+  font-family: Times;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.lisp
+{
+  position: absolute;
+  margin: 5px;
+  height: 300px;
+  width: 225px;
+  left: 505px;
+  top: 550px;
+}
+
+.ansi
+{
+  position: absolute;
+  margin: 5px;
+  height: 275px;
+  width: 300px;
+  left: 920px;
+  top: 565px;
+}
+
+.handp
+{
+  position: absolute;
+  margin: 5px;
+  height: 300px;
+  width: 225px;
+  left: 1410px;
+  top: 550px;
+}
+
+.handp1
+{
+  position: absolute;
+  margin: 5px;
+  height: 300px;
+  width: 225px;
+  left: 60px;
+  top: 550px;
+}
+
+#booksub1
+{
+  height: 200px;
+  width: 350px;
+  background-color: #BF9ADC;
+  position: absolute;
+  left: 450px;
+  top: 860px;
+}
+
+#booksub2
+{
+  height: 200px;
+  width: 350px;
+  background-color: #BF9ADC;
+  position: absolute;
+  left: 907px;
+  top: 860px;
+}
+
+#booksub3
+{
+  height: 200px;
+  width: 350px;
+  background-color: #BF9ADC;
+  position: absolute;
+  left: 1350px;
+  top: 860px;
+}
+
+#booksub4
+{
+  height: 200px;
+  width: 350px;
+  background-color: #BF9ADC;
+  position: absolute;
+  left: 25px;
+  top: 860px;
+}
+
+
+.booktext2
+{
+  color: #672C94;
+  text-align: left;
+  font-family: Times;
+  font-size: 15px;
+}
+
+.booktext3
+{
+  color: #672C94;
+  text-align: center;
+  font-family: Times;
+  font-size: 15px;
+}
+
+
+#aboutlispcontainer
+{
+  width: 1650px;
+  height: 100px;
+  background-color: #F9FEAD;
+  position: absolute;
+  top: 1150px;
+  left: 25px;
+}
+
+#buttbot
+{
+  height: 50px;
+  width: 150px;
+  background-color: #379393;
+  position: absolute;
+  left: 775px;
+  top: 1100px;
+}
+
+.butt
+{
+  color: #0F6C6C;
+  text-align: center;
+  font-family: Times;
+  font-size: 30px;
+  font-weight: bold;
+}

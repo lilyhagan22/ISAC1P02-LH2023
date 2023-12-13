@@ -1,0 +1,171 @@
+body
+{
+  background-color: #FABCC2;
+}
+
+#maintitle
+{
+  width: 1300px;
+  height: 200px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 10px;
+  left: 210px;
+}
+
+.maintitletext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#regionpurposebox
+{
+  width: 500px;
+  height: 300px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 225px;
+  left: 75px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.regionpurposetext1
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 30px;
+}
+
+.regionpurposetext2
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 15px;
+}
+
+#footer
+{
+  width: 1300px;
+  height: 75px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 900px;
+  left: 210px;
+}
+
+.footertext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-size: 15px;
+}
+
+#sportsbox
+{
+  width: 1025px;
+  height: 100px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 225px;
+  left: 600px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.sportstext
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 25px;
+}
+
+#ballbox
+{
+  width: 500px;
+  height: 225px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 365px;
+  left: 1125px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+#soccerbox
+{
+  width: 500px;
+  height: 225px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 610px;
+  left: 600px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.ball1Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 250px;
+  left: 620px;
+  top: 400px;
+}
+
+.ball2Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 250px;
+  left: 870px;
+  top: 400px;
+}
+
+.soccer1Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 250px;
+  left: 1145px;
+  top: 645px;
+}
+
+.soccer2Img
+{
+  position: absolute;
+  margin: 5px;
+  height: 175px;
+  width: 250px;
+  left: 1395px;
+  top: 645px;
+}
+
+#agtbox
+{
+  width: 250px;
+  height: 300px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 550px;
+  left: 75px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.agtImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 300px;
+  width: 225px;
+  left: 350px;
+  top: 565px;
+}

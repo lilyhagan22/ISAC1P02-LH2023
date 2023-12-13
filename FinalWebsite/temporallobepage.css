@@ -1,0 +1,293 @@
+body
+{
+  background-color: #FABCC2;
+}
+
+#maintitle
+{
+  width: 1300px;
+  height: 200px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 10px;
+  left: 210px;
+}
+
+.maintitletext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-family: Times;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+
+#regionpurposebox
+{
+  width: 500px;
+  height: 200px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 225px;
+  left: 50px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.regionpurposetext1
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 30px;
+}
+
+.regionpurposetext2
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 15px;
+}
+
+#footer
+{
+  width: 1300px;
+  height: 75px;
+  background-color: #A4323D;
+  position: absolute;
+  top: 900px;
+  left: 210px;
+}
+
+.footertext
+{
+  color: #CC5D67;
+  text-align: center;
+  font-size: 15px;
+}
+
+#livemusicbox
+{
+  width: 500px;
+  height: 400px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 455px;
+  left: 50px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.livemusictext1
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 30px;
+}
+
+.livemusictext2
+{
+  color: #FFDAC0;
+  text-align: left;
+  font-size: 15px;
+}
+
+#currentalbumsbox
+{
+  width: 500px;
+  height: 75px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 225px;
+  left: 600px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.albumstext
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 20px;
+}
+
+#datebox
+{
+  width: 500px;
+  height: 103px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 320px;
+  left: 600px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.datetext
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 15px;
+}
+
+.harrystylesImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 660px;
+  top: 450px;
+}
+
+.lordeImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 960px;
+  top: 450px;
+}
+
+.bfiaflImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 660px;
+  top: 605px;
+}
+
+.gradImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 960px;
+  top: 605px;
+}
+
+.evermoreImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 660px;
+  top: 765px;
+}
+
+.diaImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 120px;
+  width: 120px;
+  left: 960px;
+  top: 765px;
+}
+
+#musicmembox
+{
+  width: 500px;
+  height: 75px;
+  background-color: #A34A84;
+  position: absolute;
+  top: 225px;
+  left: 1125px;
+  border: #832863 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.musicmemtext
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 30px;
+}
+
+#musicbackground
+{
+  width: 485px;
+  height: 445px;
+  background-color: #FFDAC0;
+  position: absolute;
+  top: 450px;
+  left: 630px;
+}
+
+.musicmemstext
+{
+  color: #FFDAC0;
+  text-align: left;
+  font-size: 15px;
+}
+
+#musicmem1box
+{
+  width: 225px;
+  height: 150px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 325px;
+  left: 1125px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.harryImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 150px;
+  width: 225px;
+  left: 1400px;
+  top: 330px;
+}
+
+#musicmem2box
+{
+  width: 225px;
+  height: 150px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 500px;
+  left: 1400px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.bobbyImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 150px;
+  width: 225px;
+  left: 1125px;
+  top: 515px;
+}
+
+#musicmem3box
+{
+  width: 225px;
+  height: 150px;
+  background-color: #D38F60;
+  position: absolute;
+  top: 675px;
+  left: 1125px;
+  border: #AA6534 4px solid;
+  margin: 1% 1% 1% 1%;
+}
+
+.mattyImg
+{
+  position: absolute;
+  margin: 5px;
+  height: 150px;
+  width: 225px;
+  left: 1400px;
+  top: 690px;
+}
