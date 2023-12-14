@@ -45,7 +45,7 @@ body
 {
   color: #DAA4C7;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 #footer
@@ -88,7 +88,7 @@ body
 {
   color: #FFDAC0;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .textureImg
@@ -100,6 +100,7 @@ body
   left: 1400px;
   top: 240px;
 }
+
 
 #mybirthdaybox
 {
@@ -117,12 +118,26 @@ body
 {
   color: #FFDAC0;
   text-align: center;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .mybirthdaytext2
 {
   color: #FFDAC0;
+  text-align: left;
+  font-size: 10px;
+}
+
+.yourbdaytext1
+{
+  color: #DAA4C7;
+  text-align: center;
+  font-size: 18px;
+}
+
+.yourbdaytext2
+{
+  color: #DAA4C7;
   text-align: left;
   font-size: 10px;
 }

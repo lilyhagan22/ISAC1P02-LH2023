@@ -46,7 +46,7 @@ body
 {
   color: #DAA4C7;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 #footer
@@ -136,7 +136,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 660px;
+  left: 680px;
   top: 450px;
 }
 
@@ -146,7 +146,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 960px;
+  left: 940px;
   top: 450px;
 }
 
@@ -156,7 +156,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 660px;
+  left: 680px;
   top: 605px;
 }
 
@@ -166,7 +166,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 960px;
+  left: 940px;
   top: 605px;
 }
 
@@ -176,7 +176,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 660px;
+  left: 680px;
   top: 765px;
 }
 
@@ -186,7 +186,7 @@ body
   margin: 5px;
   height: 120px;
   width: 120px;
-  left: 960px;
+  left: 940px;
   top: 765px;
 }
 
@@ -223,7 +223,7 @@ body
 {
   color: #FFDAC0;
   text-align: left;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 #musicmem1box
@@ -255,7 +255,7 @@ body
   background-color: #D38F60;
   position: absolute;
   top: 500px;
-  left: 1400px;
+  left: 1390px;
   border: #AA6534 4px solid;
   margin: 1% 1% 1% 1%;
 }
@@ -266,7 +266,7 @@ body
   margin: 5px;
   height: 150px;
   width: 225px;
-  left: 1125px;
+  left: 1140px;
   top: 515px;
 }
 
