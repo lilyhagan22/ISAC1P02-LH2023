@@ -48,6 +48,28 @@ body
   font-size: 18px;
 }
 
+.regionpurposetext3
+{
+  color: #FFDAC0;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.regionpurposetext4
+{
+  color: #FFDAC0;
+  text-align: left;
+  font-size: 18px;
+}
+
+.regionpurposetext5
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 18px;
+}
+
 #footer
 {
   width: 1300px;
