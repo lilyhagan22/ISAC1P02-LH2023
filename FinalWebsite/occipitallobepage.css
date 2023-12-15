@@ -90,7 +90,7 @@ body
   margin: 5px;
   height: 175px;
   width: 175px;
-  left: 125px;
+  left: 145px;
   top: 500px;
 }
 
@@ -100,7 +100,7 @@ body
   margin: 5px;
   height: 175px;
   width: 175px;
-  left: 325px;
+  left: 345px;
   top: 500px;
 }
 
@@ -110,7 +110,7 @@ body
   margin: 5px;
   height: 175px;
   width: 175px;
-  left: 125px;
+  left: 145px;
   top: 700px;
 }
 
@@ -120,7 +120,7 @@ body
   margin: 5px;
   height: 175px;
   width: 175px;
-  left: 325px;
+  left: 345px;
   top: 700px;
 }
 
@@ -147,7 +147,14 @@ body
 {
   color: #FFDAC0;
   text-align: left;
-  font-size: 18px;
+  font-size: 15px;
+}
+
+.pptext3
+{
+  color: #FFDAC0;
+  text-align: left;
+  font-size: 10px;
 }
 
 .illusiontext
@@ -155,6 +162,13 @@ body
   color: #DAA4C7;
   text-align: left;
   font-size: 18px;
+}
+
+.illusion1text
+{
+  color: #DAA4C7;
+  text-align: left;
+  font-size: 10px;
 }
 
 .illusion1Img
@@ -171,14 +185,14 @@ body
 {
   color: #DAA4C7;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .answertext2
 {
   color: #FFDAC0;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #illusion1box

@@ -19,7 +19,9 @@
 
 	<div id="regionpurposebox">
     <p class="regionpurposetext1">What Does the Occipital Lobe Do?</p>
-      <p class="regionpurposetext2"> </p>
+      <p class="regionpurposetext2">The occipital lobe sits at the back of the head and is directly connected to the eyes.
+			Therefore, its is responsible for visual perception. This includes colour recognition, movements and depth perception.
+		  This lobe makes sense of what it is you are looking at.  </p>
   </div>
 
 	<div id="sightbox">
@@ -42,8 +44,7 @@
 
 	<div id="ppbox">
 		<p class="pptext1">Perception Puzzle</p>
-		<p class="pptext2"> Though the we all have the same anatomical structures that allow us to see
-		there are often debates about what we trule see...</p>
+		<p class="pptext2"> Vision can be tricky. Though the we all are looking at the same thing, people often debate about what they see. Here are some examples:</p>
 	</div>
 
 	<div>
@@ -56,49 +57,46 @@
 		<img class="illusion3Img" src="illusion3.jpg" alt="frog or horse illusion"/>
 	</div>
 
-	<div id="illusion1box" class="illusiontext">
-		<label for="checkInput">What do you see:</label>
+	<div id="illusion1box" class="illusion1text">
+		<p>What do you see:</p>
+		<ol/>
+		<li>Bunny</li>
+		<li>Duck</li>
+	<input type="text" name="basicText" id="basicText1" value="Enter it here!" />
 		<br/>
-		<label for="checkInput1">Bunny</label>
-		<input type="checkbox" name="checkInput1" value="Bunny" />
-		<br/>
-		<label for="checkInput2">Duck</label>
-		<input type="checkbox" name="checkInput2" value="Duck" />
-		<br/>
-				<button type="button" onclick="formOutputs()">Do I agree?</button>
+				<button type="button" onclick="formOutputs1()">Submit</button>
 	</div>
 
-	<div id="illusion2box" class="pptext2">
-		<label for="checkInput">What do you see:</label>
+	<div id="illusion2box" class="pptext3">
+		<p>What do you see:</p>
+		<ol/>
+		<li>Old Couple</li>
+		<li>Spanish Musicans</li>
+	<input type="text" name="basicText" id="basicText2" value="Enter it here!" />
 		<br/>
-		<label for="checkInput1">Old Couple</label>
-		<input type="checkbox" name="checkInput3" value="Old Couple" />
-		<br/>
-		<label for="checkInput2">Spanish Musicians</label>
-		<input type="checkbox" name="checkInput4" value="Spanish Musicians" />
-		<br/>
-				<button type="button" onclick="formOutputs()">Do I agree</button>
+				<button type="button" onclick="formOutputs2()">Submit</button>
 	</div>
 
-	<div id="illusion3box" class="illusiontext">
-		<label for="checkInput">What do you see:</label>
+	<div id="illusion3box" class="illusion1text">
+		<p>What do you see:</p>
+		<ol/>
+		<li>Frog</li>
+		<li>Horse</li>
+  <input type="text" name="basicText" id="basicText3" value="Enter it here!" />
 		<br/>
-		<label for="checkInput1">Frog</label>
-		<input type="checkbox" name="checkInput5" value="Frog" />
-		<br/>
-		<label for="checkInput2">Horse</label>
-		<input type="checkbox" name="checkInput6" value="Horse" />
-		<br/>
-				<button type="button" onclick="formOutputs()">Do I agree</button>
+				<button type="button" onclick="formOutputs3()">Submit</button>
 	</div>
 
-	<div id="answer1box" class="answertext1">
+	<div onload="formOutputs1" id="answer1box" class="answertext1">
+		<p id="answer1">Do I Agree?</p>
   </div>
 
-	<div id="answer2box" class="answertext2">
+	<div onload="formOutputs2" id="answer2box" class="answertext2">
+			<p id="answer2">Do I Agree?</p>
   </div>
 
-	<div id="answer3box" class="answertext1">
+	<div onload="formOutputs3" id="answer3box" class="answertext1">
+				<p id="answer3">Do I Agree?</p>
   </div>
 
 

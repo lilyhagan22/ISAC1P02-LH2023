@@ -81,14 +81,14 @@ body
 {
   color: #FFDAC0;
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .texturestext2
 {
   color: #FFDAC0;
   text-align: left;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .textureImg
@@ -125,7 +125,7 @@ body
 {
   color: #FFDAC0;
   text-align: left;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 .yourbdaytext1
@@ -138,8 +138,15 @@ body
 .yourbdaytext2
 {
   color: #DAA4C7;
+  text-align: center;
+  font-size: 15px;
+}
+
+.yourbdaytext3
+{
+  color: #DAA4C7;
   text-align: left;
-  font-size: 10px;
+  font-size: 15px;
 }
 
 #yourbirthdaybox
