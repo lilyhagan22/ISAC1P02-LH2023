@@ -2,13 +2,13 @@ function formOutputs1(){
   console.log(document.getElementById("basicText1").value);
   var basicText1js = document.getElementById('basicText1').value;
 
-document.getElementById('answer1box').innerHTML= "newstuff"
 
 if (basicText1js == "Bunny"){
-  document.write("I agree").innerHTML = "newstuff"
+  document.getElementById('answer1box').innerHTML= "I DO Agree";
 
 }else{
-   document.write("I do not agree").innerHTML ="newstuff";
+  document.getElementById('answer1box').innerHTML= "I DO NOT Agree";
+
 
 }
 }
@@ -19,11 +19,10 @@ function formOutputs2(){
 
 
 if (basicText2js == "Old Couple"){
-    document.write("I agree");
+  document.getElementById('answer2box').innerHTML= "I DO Agree";
 }else{
-     document.write("I do not agree");
+  document.getElementById('answer2box').innerHTML= "I DO NOT Agree";
 
-    document.getElementById("answer2").innerHTML;
   }
 }
 
@@ -34,9 +33,9 @@ function formOutputs3(){
 
 
   if (basicText3js == "Frog"){
-    document.write("I agree");
+   document.getElementById('answer3box').innerHTML= "I DO Agree";
   }else{
-     document.write("I do not agree");
+    document.getElementById('answer3box').innerHTML= "I DO NOT Agree";
 
 
   }
