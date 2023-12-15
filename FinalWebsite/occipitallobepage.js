@@ -1,5 +1,6 @@
 function formOutputs1(){
   console.log(document.getElementById("basicText1").value);
+  document.getElementById("answer1").innerHTML
 }
 
 if (basicText1 == "Bunny"){
@@ -7,7 +8,7 @@ if (basicText1 == "Bunny"){
 }else{
    document.write("I do not agree");
 
-   document.getElementById("answer1").innerHTML
+
 }
 
 function formOutputs2(){
