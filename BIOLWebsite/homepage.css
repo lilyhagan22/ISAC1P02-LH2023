@@ -197,7 +197,7 @@ body
 #mainbodybox7
 {
   width: 775px;
-  height: 525px;
+  height: 600px;
   background-color: #3B5256;
   position: absolute;
   top: 2125px;
@@ -209,7 +209,7 @@ body
 #mainbodybox8
 {
   width: 775px;
-  height: 325px;
+  height: 600px;
   background-color: #585E71;
   position: absolute;
   top: 2125px;
@@ -218,45 +218,12 @@ body
   margin: 1% 1% 1% 1%;
 }
 
-
-
-
-
-
-#footer
+#description4
 {
-  width: 1500px;
-  height: 50px;
-  background-color: #F2949D;
+  width: 1550px;
+  height: 75px;
+  background-color: #21163C;
   position: absolute;
-  top: 1400px;
-  left: 125px;
-}
-
-.footertext
-{
-  color: #C176A7;
-  text-align: center;
-  text-decoration: underline;
-  font-size: 20px;
-}
-
-.lobetitletext
-{
-  color: #A35A84;
-  text-align: center;
-  text-decoration: underline;
-  font-size: 30px;
-}
-
-#frontallobe
-{
-  width: 200px;
-  height: 100px;
-  background-color: #EED1E4;
-  position: absolute;
-  top: 300px;
-  left: 100px;
-  border: #C176A7 2px solid;
-  margin: 1% 1% 1% 1%;
+  top: 2765px;
+  left: 75px;
 }
